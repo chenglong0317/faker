@@ -1,3 +1,4 @@
+生成假数据的方法
 *Faker* is a Python package that generates fake data for you. Whether
 you need to bootstrap your database, create good-looking XML documents,
 fill-in your persistence to stress test it, or anonymize data taken from
